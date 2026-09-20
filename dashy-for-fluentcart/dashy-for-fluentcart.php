@@ -5,7 +5,7 @@
  * Tested up to:      7.1.1
  * Requires at least: 6.5
  * Requires PHP:      8.0
- * Version:           1.0.4
+ * Version:           1.0.5
  * Author:            ReallyUsefulPlugins.com
  * Author URI:        https://reallyusefulplugins.com
  * License:           GPL-3.0-or-later
@@ -18,7 +18,7 @@ if ( ! defined( 'ABSPATH' ) ) {
     exit;
 }
 
-define('RUP_DASHY_FC_VERSION', '1.0.4');
+define('RUP_DASHY_FC_VERSION', '1.0.5');
 define( 'RUP_DASHY_FC_PLUGIN_FILE', __FILE__ );
 define( 'RUP_DASHY_FC_PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
 define( 'RUP_DASHY_FC_OPTION', 'rup_dashy_fc_tabs' );

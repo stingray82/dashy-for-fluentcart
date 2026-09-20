@@ -4,7 +4,7 @@ Donate link: https://reallyusefulplugins.com/donate
 Tags: fluentcart, dashboard, tabs
 Requires at least: 6.5
 Tested up to: 7.1.1
-Stable tag: 1.0.4
+Stable tag: 1.0.5
 Requires PHP: 8.0
 License: GPL-3.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
@@ -22,6 +22,9 @@ Easily Add Dashboard Tabs to FluentCart
 == Frequently Asked Questions ==
 
 == Changelog ==
+= 1.0.5 20 September 2026 =
+New: First Public Release
+New: Automatic Updates
 = 1.0.4 20 September 2026 =
 New: Added per-tab Match Dashboard Colour option for SVG icons
 New: Added optional SVG colour normalization using currentColor
