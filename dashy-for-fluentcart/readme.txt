@@ -4,7 +4,7 @@ Donate link: https://reallyusefulplugins.com/donate
 Tags: fluentcart, dashboard, tabs
 Requires at least: 6.5
 Tested up to: 7.1.1
-Stable tag: 1.0.5
+Stable tag: 1.0.6
 Requires PHP: 8.0
 License: GPL-3.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
@@ -22,6 +22,12 @@ Easily Add Dashboard Tabs to FluentCart
 == Frequently Asked Questions ==
 
 == Changelog ==
+= 1.0.6 20 September 2026 =
+Fixed: Removed the WordPress Media attachment post type from Dashy content source selectors
+Improvement: Added validation to prevent unsupported attachment content types from being saved
+Improvement: Existing invalid attachment post type selections now safely fall back to Pages
+Tweaked: Restricted Page/Post/Custom Post sources to supported public WordPress post types
+
 = 1.0.5 20 September 2026 =
 New: First Public Release
 New: Automatic Updates
