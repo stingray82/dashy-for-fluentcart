@@ -1,0 +1,11 @@
+Easily Add Dashboard Tabs to FluentCart
+== Description ==
+
+Easily Add Dashboard Tabs to FluentCart
+== Installation ==
+
+1. Upload the `dashy-for-fluentcart` folder to the `/wp-content/plugins/` directory.
+2. Activate the plugin through the 'Plugins' menu in WordPress.
+3. Configure the plugin settings it is located in the fluentcart menu called dashy
+
+== Frequently Asked Questions ==
